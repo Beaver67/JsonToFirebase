@@ -1,0 +1,57 @@
+{
+    "todo-tree.highlights.customHighlight": {
+        "BUG": {
+            "foreground": "red",
+            "icon": "bug",
+            "iconColour": "red",
+            "gutterIcon": true,
+            "type": "text"
+        },
+        "FIXME": {
+            "foreground": "yellow",
+            "icon": "tools",
+            "iconColour": "yellow",
+            "gutterIcon": true,
+            "type": "text"
+        },
+        "CONFIG": {
+            "foreground": "green",
+            "icon": "pencil",
+            "iconColour": "green",
+            "gutterIcon": true,
+            "type": "text"
+        },
+        "HACK": {
+            "foreground": "cyan",
+            "icon": "code",
+            "iconColour": "cyan",
+            "gutterIcon": true,
+            "type": "text"
+        },
+        "BL-NOTE": {
+            "foreground": "blue",
+            "icon": "note",
+            "iconColour": "blue",
+            "gutterIcon": true,
+            "type": "text"
+        },
+        "TODO": {
+            "foreground": "white",
+            "icon": "check",
+            "iconColour": "white",
+            "gutterIcon": true,
+            "type": "text"
+        }
+    },
+    "todo-tree.general.tagGroups": {},
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "CONFIG",
+        "BL-NOTE"
+    ],
+    "todo-tree.highlights.defaultHighlight": {}
+}
